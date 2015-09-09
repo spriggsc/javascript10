@@ -1,0 +1,38 @@
+body {
+	background-color: #BFE7F2
+	
+}
+
+.label {
+    padding: 0 .6em .0;
+}
+
+.checkbox input[type=checkbox], 
+.checkbox-inline input[type=checkbox], 
+.radio input[type=radio], 
+.radio-inline input[type=radio] {
+    position: relative;
+}
+
+.center {
+	float: none;
+    margin: 90px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+
+h1 {
+	padding: 25px;
+}
+
+ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+p {
+    margin: 0 10px 10px;
+    font-size: 15px;
+    color: #101112;
+}
